@@ -2,7 +2,7 @@
 
  _A platform where customers can buy products, It's accessible from anywhere with an internet connection, offering convenience for shoppers._
 
-### *_Funtionalities :-_*
+### *_Functionalities :-_*
 1. User registration and login functionality.
 2. Product categorization and search functionality.
 3. Shopping cart functionality.
