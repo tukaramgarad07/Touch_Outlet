@@ -13,3 +13,15 @@
 
 ### *_Output images of Project :-_*
 
+<img width="450" alt="image" src="/shopping/img/Screenshot from 2024-02-19 18-10-03.png">
+
+<img width="450" alt="image" src="/shopping/img/Screenshot from 2024-02-19 18-10-12.png">
+
+<img width="450" alt="image" src="/shopping/img/Screenshot from 2024-02-19 18-10-29.png">
+
+<img width="450" alt="image" src="/shopping/img/Screenshot from 2024-02-19 18-10-42.png">
+
+<img width="450" alt="image" src="/shopping/img/Screenshot from 2024-02-19 18-10-55.png">
+
+<img width="450" alt="image" src="/shopping/img/Screenshot from 2024-02-19 18-11-05.png">
+
